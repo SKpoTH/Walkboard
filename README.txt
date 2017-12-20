@@ -1,5 +1,9 @@
 File
-ใส่ไฟล์และรายละเอียดไฟล์ทั้งหมดตรงนี้
+Practicum_mainboard 	: All source code of our project.
+README.txt 				: This file.
+WalkboardSchematic.pdf 	: Show overall system of our project
+license.txt				: Permission 
+
 
 Libaries
  Walkboard
@@ -10,7 +14,7 @@ Libaries
  Firmware 
   Arduino : SoftwareSerial.h
 
-Github : https://github.com/... ต้องสร้างgit hub teamขึ้นมา แล้วอัพโหลดไฟล์ผลงานทั้งหมดเข้าไป
+Github : https://github.com/SKpoTH/Walkboard
 
 Developer	
  	5910503855 Siwakun Kunsuk
